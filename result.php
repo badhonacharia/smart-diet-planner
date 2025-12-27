@@ -29,9 +29,9 @@ $dinner    = getMeal($conn, $country, $diet, 'dinner');
     <p><strong>Dinner:</strong> <?= $dinner ?></p>
   </div>
 
-  <a href="index.php" class="block text-center mt-6 text-green-600 font-semibold">
+  <a href="http://localhost/smart-diet/" class="block text-center mt-6 text-green-600 font-semibold">
     Create Another Plan
   </a>
-</div>
 
 <?php include 'includes/footer.php'; ?>
+
