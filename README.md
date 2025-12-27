@@ -29,6 +29,23 @@ The system provides **country-based food suggestions** (currently supported: Ban
 
 ---
 
+## 🌐 Live Demo
+
+🚧 Live demo will be available soon.
+
+For now, you can run the project locally by following the setup instructions below.
+
+### 🖥️ Local Demo Setup
+
+1. Clone the repository
+2. Move the project to your server root (e.g. `htdocs`)
+3. Create a MySQL database
+4. Import the provided SQL file
+5. Update database credentials in `config/db.php`
+6. Open the project in your browser
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, Tailwind CSS
