@@ -128,4 +128,4 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## 👤 Author
 
-Developed by **Badhon Acharia**
+Developed by **[Badhon Acharia](https://octteen.com/badhonacharia)**
