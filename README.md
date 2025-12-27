@@ -1,5 +1,10 @@
 # 🥗 Smart Diet Planner
 
+![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Smart Diet Planner is a web-based application that generates personalized daily diet plans based on user input such as height, weight, age, country, and dietary preference (Vegetarian or Non-Vegetarian).
 
 The system provides **country-based food suggestions** (currently supported: Bangladesh and India) and includes a secure **Admin Panel** for managing food data.
@@ -57,31 +62,70 @@ For now, you can run the project locally by following the setup instructions bel
 ---
 
 ## 📁 Project Structure
+
+```text
 diet-planner/
-│
-├── index.php # User input form
-├── result.php # Diet plan output
+├── index.php            # User input form
+├── result.php           # Diet plan output
 │
 ├── admin/
-│ ├── login.php # Admin login
-│ ├── logout.php # Admin logout
-│ ├── auth.php # Auth middleware
-│ ├── index.php # Admin dashboard
-│ ├── add-food.php
-│ ├── edit-food.php
-│ └── delete-food.php
+│   ├── login.php        # Admin login
+│   ├── logout.php       # Admin logout
+│   ├── auth.php         # Auth middleware
+│   ├── index.php        # Admin dashboard
+│   ├── add-food.php
+│   ├── edit-food.php
+│   └── delete-food.php
 │
 ├── config/
-│ └── db.php # Database connection
+│   └── db.php           # Database connection
 │
 ├── includes/
-│ ├── header.php
-│ ├── footer.php
-│ └── functions.php # Diet logic
+│   ├── header.php
+│   ├── footer.php
+│   └── functions.php   # Diet logic
 │
 ├── assets/
-│ ├── css/
-│ └── images/
+│   ├── css/
+│   └── images/
 │
 └── README.md
+```
+----
+## ⚠️ Disclaimer
 
+This application provides **general diet suggestions only**.  
+It is **not a medical or professional health advice tool**.
+
+Always consult a qualified healthcare professional for medical or dietary decisions.
+
+---
+
+## 🌱 Future Improvements
+
+- Weekly diet plans
+- User accounts
+- PDF diet download
+- AJAX-based UI (no page reload)
+- More country-based food databases
+- Activity-level based calorie calculation
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+You are free to:
+- Use the project for personal or commercial purposes
+- Modify and distribute the code
+- Use it in your own projects with proper attribution
+
+See the [LICENSE](LICENSE) file for full details.
+
+
+---
+
+## 👤 Author
+
+Developed by **Badhon Acharia**
