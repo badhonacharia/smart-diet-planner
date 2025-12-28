@@ -2,7 +2,10 @@
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css)
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css)
+![Apache](https://img.shields.io/badge/Apache-Server-D22128?logo=apache)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Smart Diet Planner is a web-based application that generates personalized daily diet plans based on user input such as height, weight, age, country, and dietary preference (Vegetarian or Non-Vegetarian).
