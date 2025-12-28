@@ -107,6 +107,12 @@ You are free to:
 See the [LICENSE](LICENSE) file for full details.
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-Developed by **[Badhon Acharia](https://octteen.com/badhonacharia)**
+**[Badhon Acharia](https://octteen.com/badhonacharia/)**
+
+Web Developer | PHP | WordPress | Backend System
+
+**[GitHub](https://github.com/badhonacharia/)**   **[Portfolio](https://octteen.com/badhonacharia/)**
+
+---
